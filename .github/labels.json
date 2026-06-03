@@ -1,0 +1,137 @@
+[
+  {
+    "name": "system:gameplay",
+    "color": "1D76DB",
+    "description": "Core gameplay mechanics and player interactions"
+  },
+  {
+    "name": "system:economy",
+    "color": "0E8A16",
+    "description": "Currency, pricing, balance and transactions"
+  },
+  {
+    "name": "system:ai",
+    "color": "5319E7",
+    "description": "Employee AI, state machines and automation"
+  },
+  {
+    "name": "system:ui",
+    "color": "FBCA04",
+    "description": "User interface, HUD, screens and UX"
+  },
+  {
+    "name": "system:audio",
+    "color": "F9D0C4",
+    "description": "Sound effects, music and audio feedback"
+  },
+  {
+    "name": "system:save",
+    "color": "BFD4F2",
+    "description": "Save/load, persistence and data integrity"
+  },
+  {
+    "name": "system:infrastructure",
+    "color": "D4C5F9",
+    "description": "Architecture, pooling, analytics and performance"
+  },
+  {
+    "name": "system:monetization",
+    "color": "FF6F00",
+    "description": "Ads, IAP, offers and revenue systems"
+  },
+  {
+    "name": "system:retention",
+    "color": "C2E0C6",
+    "description": "Missions, achievements, daily login and engagement"
+  },
+  {
+    "name": "priority:p0-critical",
+    "color": "B60205",
+    "description": "Critical - required for MVP"
+  },
+  {
+    "name": "priority:p1-high",
+    "color": "D93F0B",
+    "description": "High - important for retention and monetization"
+  },
+  {
+    "name": "priority:p2-medium",
+    "color": "FBCA04",
+    "description": "Medium - post-MVP improvement"
+  },
+  {
+    "name": "priority:p3-low",
+    "color": "0E8A16",
+    "description": "Low - nice to have"
+  },
+  {
+    "name": "status:blocked",
+    "color": "B60205",
+    "description": "Blocked by dependency or external factor"
+  },
+  {
+    "name": "status:needs-review",
+    "color": "FBCA04",
+    "description": "Awaiting code or design review"
+  },
+  {
+    "name": "status:ready",
+    "color": "0E8A16",
+    "description": "Ready to be picked up"
+  },
+  {
+    "name": "type:epic",
+    "color": "3E4B9E",
+    "description": "Epic - large body of work"
+  },
+  {
+    "name": "type:feature",
+    "color": "1D76DB",
+    "description": "Feature - new capability"
+  },
+  {
+    "name": "type:task",
+    "color": "C5DEF5",
+    "description": "Task - implementation work"
+  },
+  {
+    "name": "type:bug",
+    "color": "D73A4A",
+    "description": "Bug - something is broken"
+  },
+  {
+    "name": "type:tech-debt",
+    "color": "D4C5F9",
+    "description": "Tech Debt - refactoring or cleanup"
+  },
+  {
+    "name": "type:documentation",
+    "color": "0075CA",
+    "description": "Documentation - docs and guides"
+  },
+  {
+    "name": "type:subtask",
+    "color": "E4E669",
+    "description": "Subtask - technical sub-item of an issue"
+  },
+  {
+    "name": "milestone:mvp",
+    "color": "006B75",
+    "description": "Targeted for MVP release"
+  },
+  {
+    "name": "milestone:alpha",
+    "color": "0E8A16",
+    "description": "Targeted for Alpha release"
+  },
+  {
+    "name": "milestone:beta",
+    "color": "1D76DB",
+    "description": "Targeted for Beta release"
+  },
+  {
+    "name": "milestone:release-1.0",
+    "color": "5319E7",
+    "description": "Targeted for Release 1.0"
+  }
+]
